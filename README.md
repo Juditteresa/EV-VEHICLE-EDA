@@ -1,1 +1,2 @@
 # EV-VEHICLE-EDA
+This project focuses on conducting exploratory data analysis (EDA) of electric vehicles (EVs). Using a dataset related to EV specifications and performance, the notebook provides a step-by-step approach to uncovering patterns, trends, and key insights. The analysis involves data cleaning, visualization, and statistical summaries to better understand the variables influencing electric vehicles. The notebook serves as a foundational analysis that could guide further research or business decisions regarding the electric vehicle industry.
